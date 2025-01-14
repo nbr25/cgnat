@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-LOG_DIR="/log_cgnat/10.3.41.83/2025/"
+LOG_DIR=""
 LOG_EXTENSION="*.log"
 OUTPUT_LOG="/var/log/compress_logs.log"
 CURRENT_DATE=$(date +%Y-%m-%d)
