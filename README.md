@@ -1,3 +1,3 @@
-# cgnat
+# compression using zstd
 
-Change IP in variable
+
